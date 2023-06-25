@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "mj",
+  "main": "index.js",
+  "scripts": {
+    "test": "jjbh",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "typescriptNext"
+  },
+  "keywords": [
+    "j"
+  ],
+  "author": "theRahaman",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
